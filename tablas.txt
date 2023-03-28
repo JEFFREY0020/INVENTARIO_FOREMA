@@ -1,0 +1,35 @@
+
+
+categorias
+	id
+	nombre
+	descripcion
+
+
+madera_rollo
+	id
+	cantidad
+	diametro
+	largo
+	fecha
+
+madera_acerrada
+	gxa
+	largo
+	fecha
+
+ventas
+	gxa
+	largo
+	fecha
+
+facturas
+	id
+	id-madera
+	cantidad
+
+clientes
+	id
+	nombre
+	apellido
+	fecha
